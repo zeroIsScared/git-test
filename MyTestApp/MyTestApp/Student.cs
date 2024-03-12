@@ -9,5 +9,6 @@ namespace MyTestApp
     internal class Student
     {
         string name;
+        string age;
     }
 }
